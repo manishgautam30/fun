@@ -10,8 +10,7 @@
     bottom: 0;
     min-width: 100%;
     min-height: 100%;
-    opacity: 0.50 ;
-    
+    pointer-events: none;
   }
 
 body{
